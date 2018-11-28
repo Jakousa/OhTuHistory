@@ -43,5 +43,5 @@ Ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/
 - Partio
   - [sovellus](https://suunnittelu.partio-ohjelma.fi/)
 - Ohtuprojekti-ilmo
-  - TBD
+  - [sovellus](https://studies.cs.helsinki.fi/projekti/)
 
